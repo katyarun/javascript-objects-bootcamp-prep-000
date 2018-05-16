@@ -9,4 +9,4 @@ function removeFromPlaylist(playlist, artist){
   return playlist;
 }
 
-console.log(updatePlaylist(playlist, '1 2', 'its song'));
+// console.log(updatePlaylist(playlist, '1 2', 'its song'));
